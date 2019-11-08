@@ -1,2 +1,2 @@
-# sampe1
+# sample1
 Sample for class
